@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file
+Icon?
+
+# Resource forks and metadata
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd/
+.DocumentRevisions-V100/
+.TemporaryItems/
+.VolumeIcon.icns
+.AppleDB/
+.AppleDesktop/
+Network Trash Folder/
+.apdisk
